@@ -1,8 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,900);
 .jumbotron {
     background-image: url(poster.jpeg);
 }
-
-.container {}
 
 .navbar {
     margin-bottom: 0 !important;
@@ -33,7 +32,6 @@ body {
     margin: 2rem 1rem;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,900);
 html,
 body {
     -moz-box-sizing: border-box;
